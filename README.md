@@ -12,9 +12,11 @@ An AI-powered web app that helps you **validate and evaluate** your Micro SaaS b
 
 ---
 
-## 📸 Demo
+## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/a93a16c3-f38a-4604-83da-e72133e98286)
 
-![AI Micro SaaS Evaluator Screenshot](demo.png) <!-- Replace with your own screenshot or GIF -->
+
+ 
 
 ---
 
